@@ -1,4 +1,6 @@
-import { useState } from "react" /*El use state es un hook */
+import { useState } from "react" /*El use state es un hook 
+
+Este es un componente funcional*/
 
 function ContadorFuncional (props){
     console.log("Creando Componente ContadorFuncional")
